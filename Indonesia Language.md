@@ -21,7 +21,7 @@ local storage = {
     }
 }
 ```
-![Screenshot (88)](https://github.com/user-attachments/assets/57bd0978-6577-4181-84ca-0c3b545e2d5c)
+![Screenshot (88)](https://github.com/user-attachments/assets/27f52c28-e2be-4fd4-a2b7-e54a41ba955e)
 
 #### Contoh Penggunaan File.txt, Pastikan Kamu Mengubah enabled = false Menjadi enabled = true dan Pastikan Juga Lokasi Filenya Sesuai.
 ```lua
@@ -43,7 +43,8 @@ local storage = {
 }
 ```
 #### Format World didalam File.txt
-![Screenshot (90)](https://github.com/user-attachments/assets/a6a6b90f-32ed-4a10-9fa2-1b17eb047915)
+![Screenshot (90)](https://github.com/user-attachments/assets/ed931caf-175f-4800-8b72-6c869e38ccb0)
+
 
 ## ITEM SETTING
 
@@ -55,7 +56,7 @@ local itemList = {
     {id = {4584, 3004}, limit = 10000, amount = 200}
 }
 ```
-![Screenshot (92)](https://github.com/user-attachments/assets/a0264fec-8954-452c-9d93-f21d7d1a3361)
+![Screenshot (92)](https://github.com/user-attachments/assets/610ba9c7-1845-49b6-83db-87871ddd13a8)
 
 #### Contoh Config ketika Limit dan Amount berbeda
 ```lua
@@ -66,10 +67,11 @@ local itemList = {
     {id = {242}, limit = 1000, amount = 50}
 }
 ```
-![Screenshot (95)](https://github.com/user-attachments/assets/df24fbff-95eb-4b42-ab35-8bad0fedf73e)
+![Screenshot (95)](https://github.com/user-attachments/assets/dd743e57-d871-442c-9ed0-877c1f0aa8ef)
 
 ## WEBHOOK SETTING
 
 #### Pastikan untuk mengubah createNewMessageID = false Menjadi createNewMessageID = true Jika Tidak Ada 3 File.txt dibawah ini 
-![Screenshot (97)](https://github.com/user-attachments/assets/7119a3c0-72a0-4e85-a9b9-0a449774abc0)
-![Screenshot (101)](https://github.com/user-attachments/assets/c769cbdf-34dc-4bed-afe6-c62a580fbcad)
+![Screenshot (97)](https://github.com/user-attachments/assets/78dcfd50-92a4-462b-8ee3-052312a2c926)
+
+![Screenshot (101)](https://github.com/user-attachments/assets/1bcb5733-9d72-48c2-a054-74780696f3cb)
