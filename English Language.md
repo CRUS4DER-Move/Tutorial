@@ -2,7 +2,7 @@
 
 ## STORAGE
 
-#### Contoh Penulisan World yang tidak menggunakan File.txt
+#### Example of World Writing that does not use File.txt
 ```lua
 local storage = {
     take = {
@@ -23,7 +23,7 @@ local storage = {
 ```
 ![Screenshot (88)](https://github.com/user-attachments/assets/57bd0978-6577-4181-84ca-0c3b545e2d5c)
 
-#### Contoh Penggunaan File.txt, Pastikan Kamu Mengubah enabled = false Menjadi enabled = true dan Pastikan Juga Lokasi Filenya Sesuai.
+#### Example of Using File.txt, Make Sure You Change enabled = false to enabled = true and Also Make Sure the File Location is Correct.
 ```lua
 local storage = {
     take = {
@@ -42,12 +42,12 @@ local storage = {
     }
 }
 ```
-#### Format World didalam File.txt
+#### World Format in File.txt
 ![Screenshot (90)](https://github.com/user-attachments/assets/a6a6b90f-32ed-4a10-9fa2-1b17eb047915)
 
 ## ITEM SETTING
 
-#### Contoh Config ketika Limit dan Amount tidak berbeda
+#### Example Config when Limit and Amount are not different
 
 ```lua
 local itemList = {
@@ -57,7 +57,7 @@ local itemList = {
 ```
 ![Screenshot (92)](https://github.com/user-attachments/assets/a0264fec-8954-452c-9d93-f21d7d1a3361)
 
-#### Contoh Config ketika Limit dan Amount berbeda
+#### Example Config when Limit and Amount are different
 ```lua
 local itemList = {
     --- id item to move, limit item per-storage, minimum item amount at bot backpack to move
@@ -70,6 +70,6 @@ local itemList = {
 
 ## WEBHOOK SETTING
 
-#### Pastikan untuk mengubah createNewMessageID = false Menjadi createNewMessageID = true Jika Tidak Ada 3 File.txt dibawah ini 
+#### Make sure to change createNewMessageID = false to createNewMessageID = true if there are no 3 .txt files below 
 ![Screenshot (97)](https://github.com/user-attachments/assets/7119a3c0-72a0-4e85-a9b9-0a449774abc0)
 ![Screenshot (101)](https://github.com/user-attachments/assets/c769cbdf-34dc-4bed-afe6-c62a580fbcad)
