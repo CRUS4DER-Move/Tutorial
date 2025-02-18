@@ -21,7 +21,7 @@ local storage = {
     }
 }
 ```
-![Screenshot (88)](https://github.com/user-attachments/assets/57bd0978-6577-4181-84ca-0c3b545e2d5c)
+![Screenshot (88)](https://github.com/user-attachments/assets/f9315968-bc2d-4ceb-b9e2-406184c57285)
 
 #### Example of Using File.txt, Make Sure You Change enabled = false to enabled = true and Also Make Sure the File Location is Correct.
 ```lua
@@ -43,7 +43,7 @@ local storage = {
 }
 ```
 #### World Format in File.txt
-![Screenshot (90)](https://github.com/user-attachments/assets/a6a6b90f-32ed-4a10-9fa2-1b17eb047915)
+![Screenshot (90)](https://github.com/user-attachments/assets/717da7d1-534f-4787-9c4c-21390fca9dd0)
 
 ## ITEM SETTING
 
@@ -55,7 +55,7 @@ local itemList = {
     {id = {4584, 3004}, limit = 10000, amount = 200}
 }
 ```
-![Screenshot (92)](https://github.com/user-attachments/assets/a0264fec-8954-452c-9d93-f21d7d1a3361)
+![Screenshot (92)](https://github.com/user-attachments/assets/fcb05cc7-a21c-419e-9a7a-43fc692d49d0)
 
 #### Example Config when Limit and Amount are different
 ```lua
@@ -66,10 +66,11 @@ local itemList = {
     {id = {242}, limit = 1000, amount = 50}
 }
 ```
-![Screenshot (95)](https://github.com/user-attachments/assets/df24fbff-95eb-4b42-ab35-8bad0fedf73e)
+![Screenshot (95)](https://github.com/user-attachments/assets/4a273a60-3dfd-47d4-b523-8f4a83afc71c)
 
 ## WEBHOOK SETTING
 
 #### Make sure to change createNewMessageID = false to createNewMessageID = true if there are no 3 .txt files below 
-![Screenshot (97)](https://github.com/user-attachments/assets/7119a3c0-72a0-4e85-a9b9-0a449774abc0)
-![Screenshot (101)](https://github.com/user-attachments/assets/c769cbdf-34dc-4bed-afe6-c62a580fbcad)
+![Screenshot (97)](https://github.com/user-attachments/assets/159a37ec-1cfa-4195-adbf-8cf10909d9ff)
+
+![Screenshot (101)](https://github.com/user-attachments/assets/29eccef2-9dad-4cc5-895e-86182634dd50)
