@@ -68,10 +68,3 @@ local itemList = {
 }
 ```
 ![Screenshot (95)](https://github.com/user-attachments/assets/dd743e57-d871-442c-9ed0-877c1f0aa8ef)
-
-## WEBHOOK SETTING
-
-#### Pastikan untuk mengubah createNewMessageID = false Menjadi createNewMessageID = true Jika Tidak Ada 3 File.txt dibawah ini 
-![Screenshot (97)](https://github.com/user-attachments/assets/78dcfd50-92a4-462b-8ee3-052312a2c926)
-
-![Screenshot (101)](https://github.com/user-attachments/assets/1bcb5733-9d72-48c2-a054-74780696f3cb)
