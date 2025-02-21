@@ -67,10 +67,3 @@ local itemList = {
 }
 ```
 ![Screenshot (95)](https://github.com/user-attachments/assets/4a273a60-3dfd-47d4-b523-8f4a83afc71c)
-
-## WEBHOOK SETTING
-
-#### Make sure to change createNewMessageID = false to createNewMessageID = true if there are no 3 .txt files below 
-![Screenshot (97)](https://github.com/user-attachments/assets/159a37ec-1cfa-4195-adbf-8cf10909d9ff)
-
-![Screenshot (101)](https://github.com/user-attachments/assets/29eccef2-9dad-4cc5-895e-86182634dd50)
